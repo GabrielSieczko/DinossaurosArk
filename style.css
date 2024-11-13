@@ -1,0 +1,27 @@
+.titu{
+    border: 5px solid black;
+    text-align: center;
+}
+.imgp1{
+    border: 5px solid black;
+    height: 19%;
+    width: 19%;
+}
+.imgp1:hover{
+    border: 5px solid #c9baff;
+}
+.img{
+    border: 5px solid black;
+    height: 500px;
+    width: 800px;
+}
+body{
+    background-color: #404184;
+}
+div{
+    text-align: center;
+    display: inline;
+}
+.text{
+    color: white;
+}
